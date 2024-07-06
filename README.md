@@ -5,40 +5,75 @@ In the contemporary digital landscape, the vast array of movie options spanning 
 Use cases:
 
 •	Fetching the total number of movies rated over the years. 
+
 •	Fetching the IMDb and TMDb links for each movie title.
+
 •	Fetching the count of the total number of ratings for each movie title.
+
 •	Finding the ratings for each movie title.
+
 •	Finding the movie titles which got highest and lowest rating based on occupation.
+
 •	Finding the titles which got highest rating based on age.
+
 •	Finding the mean rating for each movie based on gender.
+
 •	Finding the movies preferred by females but not by males.
+
 •	Finding the movies preferred by males but not by females.
+
 •	Finding the highest rated movies based on the UserID entered.
+
 •	Finding the highest rated movies based on the occupation entered.
+
 •	Finding the highest rated movies based on the gender entered.
+
 •	Finding the highest rated movies based on the age (age group) entered.
+
 •	Searching for a relevant movie information based on a keyword or movie title entered. 
+
 •	Finding the number of movies per genre.
+
 •	Finding the genres which got highest rating by males.
+
 •	Finding the genres which got highest rating by females.
+
 •	Finding the top 3 genres which got highest rating by ages groups.
+
 •	Finding the top 3 genres which got highest rating based on occupation.
+
 •	Finding the total and average ratings per genre.
+
 •	Finding the ratings for musical genre movies.
+
 •	Finding the ratings for musical genre based on gender.
+
 •	Finding the ratings for musical genre based on age.
+
 •	Finding the ratings for musical genre based on occupation.
+
 •	Fetching the IMDb and TMDb links to musical genre movies.
+
 •	Finding the genres based on average of ratings given by any particular user.
+
 •	Finding the genres based on average of ratings by age (age group).
+
 •	Finding the genres based on average of ratings given an occupation.
+
 •	Finding the genres based on average of ratings given a gender.
+
 •	Finding the movies based on average of ratings given a genre.
+
 •	Finding the overall average rating of movies by female users.
+
 •	Finding the overall average rating of movies by male users.
+
 •	Finding the minimum, maximum and average rating for all users.
+
 •	Finding the average rating of all genres given by each user.
+
 •	Finding the total number of ratings per genre given by each user.
+
 Importance/ Requirement:
 
 1.	Dataset integration and information retrieval:
